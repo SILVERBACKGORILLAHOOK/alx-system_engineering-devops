@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod +x StarWars IV 
+telnet towel.blinkenlights.nl 
